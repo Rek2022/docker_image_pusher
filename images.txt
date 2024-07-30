@@ -7,3 +7,4 @@ xhofe/alist:latest
 postgres
 redis
 nextcloud
+nextcloud/all-in-one:latest
